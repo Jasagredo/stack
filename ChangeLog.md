@@ -21,6 +21,8 @@ Bug fixes:
 * Use proper Hoogle executable path when installed automatically. See
   [#4905](https://github.com/commercialhaskell/stack/issues/4905)
 
+* Use Hoogle from the snapshot used and not the latest version. See
+  [#4905](https://github.com/commercialhaskell/stack/issues/4905)
 
 ## v2.1.3.1
 
