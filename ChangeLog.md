@@ -18,6 +18,9 @@ Bug fixes:
 * Fix using relative links in haddocks output.  See
   [#4971](https://github.com/commercialhaskell/stack/issues/4971).
 
+* Use proper Hoogle executable path when installed automatically. See
+  [#4905](https://github.com/commercialhaskell/stack/issues/4905)
+
 
 ## v2.1.3.1
 
@@ -79,9 +82,6 @@ Bug fixes:
 
 * Fix support for non-ASCII module names. See
   [#4938](https://github.com/commercialhaskell/stack/issues/4938)
-
-* Use proper Hoogle executable path when installed automatically. See
-  [#4905](https://github.com/commercialhaskell/stack/issues/4905)
 
 Other changes:
 
